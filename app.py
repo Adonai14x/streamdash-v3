@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import plotly.express.px
+import plotly.express as px
 
 set.set_page_config(page_title="Data Dashboard", layout="wide")
 st.header("Data Dashboard")
